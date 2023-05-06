@@ -1,10 +1,9 @@
 # Hola, I'm [Francis](https://cwf96991.github.io/)! 👋
 # 💫About Me :
- - 🔭 I’m currently working on QuantDART.
  - 🌱 I’m currently learning more about BlockChain, web3 and 3D Modeling.
  - 👯 I’m looking to collaborate on anything.
  - 💬 Ask me about Flutter or any tech-related stuff.
- - 📫 How to reach me: Email - cwfflutter@gmail.com
+ - 📫 How to reach me: Email - francis.choi1223@gmail.com
  - 😄 Pronouns: He/His
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cwf96991) 
